@@ -1,14 +1,34 @@
-# 5209782_Nikhil Kumar
+<h1 align="center">Hi 👋, I'm Manashi Mohapatra</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-# LTTS StepIn Training 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manshi2921&label=Profile%20views&color=0e75b6&style=flat" alt="manshi2921" /> </p>
 
-## Week 1 - SDLC Training
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manshi2921" alt="manshi2921" /></a> </p>
 
-### ✅ Completion Proof
+- 🔭 I’m currently working on **Data Analysis**
 
-![SDLC Training Screenshot](https://github.com/Nikhil2374/5209782_Nikhil-Kumar/blob/main/SDLC/SDLC_Completion_Proof.png)
+- 🌱 I’m currently learning **ower BI • Tableau • SQL • Python for Data Analysis • Statistics for Data Science**
 
-## Week 2 - Github Training
+- 👯 I’m looking to collaborate on **Open-source projects**
 
-### ✅ Completion Proof
-![Git Training Screenshot](https://github.com/Nikhil2374/5209782_Nikhil-Kumar/blob/main/GIT/Git%20Certificate%20Simplilearn%20ss.png)
+- 👨‍💻 All of my projects are available at [https://manashi.netlify.app/](https://manashi.netlify.app/)
+
+- 💬 Ask me about **Excel • SQL • Power BI • Python (Pandas, NumPy, Matplotlib)**
+
+- 📫 How to reach me **manshi2129@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RHgm0jDT6fiz6hLOvMlzcDLxQb7U14E1/view?usp=sharing](https://drive.google.com/file/d/1RHgm0jDT6fiz6hLOvMlzcDLxQb7U14E1/view?usp=sharing)
+
+- ⚡ Fun fact **I clean messy data better than I clean my room 😄**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manashi-mohapatra-8851b622b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brrtrlaywsz6pbiux1qlb9q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manashi-mohapatra-8851b622b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brrtrlaywsz6pbiux1qlb9q%3d%3d" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manshi2921&show_icons=true&locale=en&layout=compact" alt="manshi2921" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manshi2921&show_icons=true&locale=en" alt="manshi2921" /></p>
