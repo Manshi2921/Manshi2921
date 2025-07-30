@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RHgm0jDT6fiz6hLOvMlzcDLxQb7U14E1/view?usp=sharing](https://drive.google.com/file/d/1RHgm0jDT6fiz6hLOvMlzcDLxQb7U14E1/view?usp=sharing)
 
-- ⚡ Fun fact **I clean messy data better than I clean my room 😄**
+- ⚡ Fun fact **I have an OCD for cleaning data — even more than I have for cleaning my room! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
